@@ -1,5 +1,5 @@
 Repository with R routines used in:
-**"Spatio-temporal instrumental variables regression with missing data: A Bayesian approach"**, submitted to Computational Economics.  
+**"Spatio-temporal instrumental variables regression with missing data: A Bayesian approach"** (submitted).  
 
 - **MCMC_Code_CAR.R** : Main file containing the MCMC routine; 
 - **Full_Conditionals.R** : Auxiliary file with all full conditional distributions;
