@@ -1,5 +1,5 @@
 Repository with R routines used in:
-**"Spatio-temporal instrumental variables regression with missing data: A Bayesian approach"** (R&R).  
+**Spatio-temporal instrumental variables regression with missing data: A Bayesian approach** (R&R).  
 
 - **MCMC_Code_IVST.R** : Main file containing the MCMC routine; 
 - **Full_Conditionals_IVST.R** : Auxiliary file with all full conditional distributions;
